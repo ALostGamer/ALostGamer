@@ -11,12 +11,19 @@ Puedes conocerme como Ahrdyn por aquí.
 ## HABILIDADES
 
  Conocimiento a nivel intermedio sobre programas OFFICE.
+
  Conocimiento básico de edición de vídeo y sonido.
+
  Conocimiento básico de edición de imagen.
+
  Conocimiento Intermedio - Avanzado sobre Lenguajes de Marcado entre los que destacar HTML, CSS, JavaScript.
+
  Conocimiento Intermedio - Avanzado sobre Lenguajes de Programación entre los que destacar Java C# y .Net
+
  Conocimiento Básico sobre Lenguajes de Programación entre los que destacar Python, C y C++.
+
  Fácil adaptación en nuevos entornos de desarrollo y equipos de trabajo.
+
 
 
 ## CONTACTO
